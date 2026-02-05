@@ -1,0 +1,3 @@
+maps/jail_buyukisyan_yilbasi.res
+maps/jail_buyukisyan_yilbasi.bsp
+models/tree.mdl

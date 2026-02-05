@@ -1,0 +1,13 @@
+maps/jail_standler_b3.bsp
+maps/jail_standler_b3.txt
+sound/jail_standler/baby.wav
+sound/jail_standler/pokemon.wav
+sound/jail_standler/remix.wav
+models/w_ak47.mdl
+models/w_aug.mdl
+models/w_awp.mdl
+models/w_m3.mdl
+models/w_m4a1.mdl
+models/w_mp5.mdl
+models/w_scout.mdl
+models/w_sg552.mdl
