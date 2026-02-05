@@ -1,0 +1,27 @@
+Jail_Andaman
+
+- Map for Jailbreak/Prisonbreak mod.
+- Map works for CS 1.6 and CZ.
+- Contains custum wads.
+- Made with special mapping techniques and advanced functions.
+
+Installation tips
+- Copy all files into your server's cstrike filder in the same structure as in the ZIP file.
+- In order to keep all terrorists inside the cells untill CT's open it in the beginning of each round,
+  go to your server.cfg and change CVar "mp_freezetime" to about 3-5.
+
+!!NOTE!!
+Please do not change anything, for example filenames and RES entries,
+in order to avoid download problems for yourself and other players.
+- Thank you.
+
+Map made by KROGSGAARD
+- From Denmark
+- E-mail: simon.krogsgaard@hotmail
+- Steam: _2simon2_
+
+You dont have to copy this file into your server folder, it is only used for information.
+Dont mind to delete it after reading.
+
+Enjoy,
+Regards KROGSGAARD.
